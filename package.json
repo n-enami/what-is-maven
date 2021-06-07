@@ -18,7 +18,7 @@
     "pretest": "textlint '!(node_modules)/*.md'"
   },
   "devDependencies": {
-    "gitbook-plugin-ga": "^1.0.0",
+    "gitbook-plugin-ga": "^2.0.0",
     "honkit": "^3.6.20",
     "textlint": "^12.0.0",
     "textlint-filter-rule-comments": "^1.2.2",
